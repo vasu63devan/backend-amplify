@@ -22,7 +22,7 @@ var con = mysql.createConnection({
     host: "amplify-rds.cvo00sagg8r4.us-east-1.rds.amazonaws.com",
     user: "admin",
     password: "Vmd14152024",
-    // port: "3306",
+    port: "3306",
     database:"mydb"
 });
  

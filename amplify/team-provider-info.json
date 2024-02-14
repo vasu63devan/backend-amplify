@@ -15,7 +15,7 @@
       "function": {
         "lambdaamplify": {
           "deploymentBucketName": "amplify-backendamplify-dev-160614-deployment",
-          "s3Key": "amplify-builds/lambdaamplify-59674a686a504e697754-build.zip"
+          "s3Key": "amplify-builds/lambdaamplify-6d3136356d5a69493373-build.zip"
         }
       },
       "api": {
